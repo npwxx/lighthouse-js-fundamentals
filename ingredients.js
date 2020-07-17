@@ -15,4 +15,4 @@ for (i = 0; i < ingredients.length; i++) {
 // write a loop that prints out the ingredients in reverse:
 for (i = ingredients.length - 1; i >= 0; i--) {
   console.log(ingredients[i])
-}
+};
