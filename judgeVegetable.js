@@ -9,8 +9,6 @@ function judgeVegetable(vegetables, metric) {
   return winner.submitter
 }
 
-
-
 const vegetables = [{
     submitter: 'Old Man Franklin',
     redness: 10,
