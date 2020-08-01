@@ -1,6 +1,4 @@
-let num = 100
-
-for (num = 100; num <= 200; num++) {
+for (let num = 100; num <= 200; num++) {
   if ((num % 3 === 0) && (num % 4 === 0)) {
     console.log("LoopyLighthouse")
   }
